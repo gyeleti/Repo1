@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is EADE-1B38
-
- Directory of C:\Users\Admin\Desktop\MyProject
-
-23-11-2020  02:35 PM    <DIR>          .
-23-11-2020  02:35 PM    <DIR>          ..
-23-11-2020  02:35 PM                 0 file.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  65,631,453,184 bytes free
+Change 1
